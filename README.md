@@ -11,10 +11,10 @@ In this repo you can find a number of small addons for Blender and auxiliary Pyt
 * **[One-vertex mesh object at the cursor location](https://github.com/vvoovv/blender-tools/wiki/One-vertex-mesh-object-at-the-cursor-location)**
 <br>Create one-vertex mesh object at the cursor location
 
-* **Addon Builder**
+* **[Addon Builder](https://raw.githubusercontent.com/vvoovv/blender-tools/master/addon_builder.py)**
 <br>Joins Python modules referenced from the input Python module into a single module
 
-* **Fix OpenStreetMap file**
+* **[Fix OpenStreetMap file](https://raw.githubusercontent.com/vvoovv/blender-tools/master/fix_osm.py)**
 <br>Deletes elements with "action"="delete" from an OpenStreetMap file
 
 
